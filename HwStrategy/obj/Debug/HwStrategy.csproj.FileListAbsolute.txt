@@ -1,0 +1,7 @@
+C:\Users\Адиль\source\repos\HwStrategy\bin\Debug\HwStrategy.exe.config
+C:\Users\Адиль\source\repos\HwStrategy\bin\Debug\HwStrategy.exe
+C:\Users\Адиль\source\repos\HwStrategy\bin\Debug\HwStrategy.pdb
+C:\Users\Адиль\source\repos\HwStrategy\obj\Debug\HwStrategy.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\HwStrategy\obj\Debug\HwStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\HwStrategy\obj\Debug\HwStrategy.exe
+C:\Users\Адиль\source\repos\HwStrategy\obj\Debug\HwStrategy.pdb
